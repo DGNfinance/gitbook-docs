@@ -13,7 +13,7 @@ Dragon Finance is based upon the work of the brilliant **tomb.finance** project 
 This project would certainly not be possible without the work of the [tomb.finance](https://tomb.finance) team. Their project being fully open source and developed exceptionally well made it a pleasure to work with, and we would not be here today without their efforts, so we want to give a special thank you to them for that.
 
 {% hint style="info" %}
-Dragon Finance was launched on November 23, 2021. The rest is history!&#x20;
+Dragon Finance will be launched on March 15, 2022.
 {% endhint %}
 
 ## What's the point?
@@ -32,7 +32,7 @@ DRAGON is the native token of the Dragon Finance protocol. The built-in stabilit
 
 ## What are the Dragon Finance protocol tokens?&#x20;
 
-Dragon Finance multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
+Dragon Finance multi-token protocol currently consists of the following three tokens, and each plays a critical role in how the protocol works to maintain peg:
 
 1. **DRAGON Tokens ($DRAGON)** - The DRAGON token is designed for use as a medium of exchange, and is intended to have many other use cases as the Dragon Finance ecosystem grows. DRAGON is algorithmically pegged to BNB  at a ratio of 100 DRAGON to 1 BNB.
 2. **DRAGON Shares ($DSHARE)** - DSHARE can be staked in the [Boardroom](protocol/boardroom.md) to earn a portion of minted DRAGON as rewards to those DSHARE holders for investing in the health and stability of the protocol.
@@ -44,7 +44,7 @@ The Dragon Finance protocol works through a synergistic design of unique tokens 
 
 * When **DRAGON price is over the peg**, new DRAGON are minted by the protocol to inflate the supply in an attempt to drive the price down towards the peg. These new DRAGON are allocated to DSHARE holders in the Boardroom, as a reward for their investment and trust in the protocol. This in turn increases the demand for and the value of DSHARE.
 * When **DRAGON price is at the peg**, no new DRAGON will be minted, keeping the supply fixed during this time. Since there will be no new supply coming in, the peg will be maintained indefinitely at this point unless there is a shift in demand. More buying pressure during this time will push the price back up above the DRAGON minting threshold. Conversely, more selling pressure will push the price below the peg.
-* When **DRAGON price drops below the peg**, the protocol will begin to mint DBONDs (up to a maximum debt limit). Experienced investors will have the ability to exchange their DRAGON for these DBOND, which they can then redeem for DRAGON at a premium above peg in the future. This removes DRAGON from the total supply, applying upward pressure on the price towards the peg. Besides this, investors who believe in the protocol's ability to maintain peg can just buy DRAGON to essentially purchase BNB at a discount to the market. Both of these incentives are intended to create upward pressure on DRAGON's price when under the peg so that the peg can be regained over time. DRAGON staking (xDRAGON), and other features of the protocol that will be discussed later, also help limit DRAGON supply and apply upward pressure on the price during this time.
+* When **DRAGON price drops below the peg**, the protocol will begin to mint DBONDs (up to a maximum debt limit). Experienced investors will have the ability to exchange their DRAGON for these DBOND, which they can then redeem for DRAGON at a premium above peg in the future. This removes DRAGON from the total supply, applying upward pressure on the price towards the peg. Besides this, investors who believe in the protocol's ability to maintain peg can just buy DRAGON to essentially purchase BNB at a discount to the market. Both of these incentives are intended to create upward pressure on DRAGON's price when under the peg so that the peg can be regained over time.
 
 {% hint style="info" %}
 There are so many different ways you can utilize the mechanisms of the Dragon Finance protocol to earn yield. Pick a strategy that is right for you, based upon your own knowledge and experience. Even the most simple and basic of strategies can earn great returns, but feel free to experiment with more complex strategies as you learn how the protocol works!
