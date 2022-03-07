@@ -28,7 +28,7 @@
 
 ##  Links
 
-* [Discord](https://discord.dragon.finance)
+* [Discord](https://discord.gg/gtE7hdZu)
 * [Telegram](https://t.me/dragonfinance)
 <!-- * [Medium](https://bombbshare.medium.com) -->
 * [Twitter](https://twitter.com/dragonfinance)
