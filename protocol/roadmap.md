@@ -1,5 +1,5 @@
 ---
-description: Roadmap outlining the future for Bomb Money
+description: Roadmap outlining the future for Dragon Finance
 ---
 
 # Roadmap
@@ -12,7 +12,7 @@ Updates will be posted here as the Roadmap is updated.
 * [ ] Launch Genesis Pool.
 * [ ] Coinmarketcap Listing.
 * [ ] Initial website redesign. 
-* [ ] Add DRAGON single staking (xDRAGON). 
+* [ ] Add DGN single staking (xDRAGON). 
 * [ ] Autocompounding vaults. 
 * [ ] Timelock all contracts. Timelock will be a minimum three-day lock on all contracts which control rewards or any other aspect of how the system functions. 
 * [ ] Establish partner autocompounding vaults. 

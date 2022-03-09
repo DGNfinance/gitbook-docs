@@ -1,6 +1,6 @@
 # Other Protocol Contract Addresses
 
-### Bomb Money Oracle
+### Dragon Finance Oracle
 
 [0x901a38448B254261cBaA960828BA8DeC08A28EFC](https://bscscan.com/address/0x901a38448B254261cBaA960828BA8DeC08A28EFC)
 

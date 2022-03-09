@@ -1,49 +1,49 @@
 ---
 description: >-
-  Staking bomb.money (BOMB) tokens rewards you with xBOMB, the Bomb Money
+  Staking dragonfinance.co (DGN) tokens rewards you with xDGN, the Dragon Finance
   protocol's governance token.
 ---
 
-# xBOMB - BOMB Staking
+# xDGN - DGN Staking
 
-![The BOMB staking user interface](<../.gitbook/assets/xBOMB UI.png>)
+![The DGN staking user interface](<../.gitbook/assets/xDGN UI.png>)
 
-### What is xBOMB?
+### What is xDGN?
 
-xBOMB is a utility token for the BOMB Money protocol. You must hold xBOMB in your wallet to be able to vote on decisions that will shape the future of BOMB Money. The more xBOMB you hold, the more power your vote will carry.
+xDGN is a utility token for the Dragon Finance protocol. You must hold xDGN in your wallet to be able to vote on decisions that will shape the future of Dragon Finance. The more xDGN you hold, the more power your vote will carry.
 
-### How Does xBOMB Work?
+### How Does xDGN Work?
 
-BOMB can be exchanged to and from xBOMB at any time on our [xBOMB page](https://app.bomb.money/xbomb).
+DGN can be exchanged to and from xDGN at any time on our [xDGN page](https://dragonfinance.co/xbomb).
 
-When xBOMB was launched, the ratio of BOMB to xBOMB was exactly 1.0. At a ratio of 1.0, if you deposited 100 BOMB, you would receive 100 xBOMB in return. And, similarly, if you redeemed 100 xBOMB, you would receive 100 BOMB back.
+When xDGN was launched, the ratio of DGN to xDGN was exactly 1.0. At a ratio of 1.0, if you deposited 100 DGN, you would receive 100 xDGN in return. And, similarly, if you redeemed 100 xDGN, you would receive 100 DGN back.
 
-xBOMB is only minted when BOMB is deposited into the contract.  Any time BOMB is sent to the xBOMB smart contract as rewards, it will increase the ratio of BOMB to xBOMB, generating a yield for all xBOMB holders.
+xDGN is only minted when DGN is deposited into the contract.  Any time DGN is sent to the xDGN smart contract as rewards, it will increase the ratio of DGN to xDGN, generating a yield for all xDGN holders.
 
 ### Example
 
-John deposits 10,000 BOMB into xBOMB staking, when the exchange is 1.0. John receives 10,000 xBOMB in return for his 10,000 BOMB.
+John deposits 10,000 DGN into xDGN staking, when the exchange is 1.0. John receives 10,000 xDGN in return for his 10,000 DGN.
 
-Other users stake a combined 90,000 additional BOMB, making the total staked amount of BOMB 100,000.
+Other users stake a combined 90,000 additional DGN, making the total staked amount of DGN 100,000.
 
-Now we have 100,000 xBOMB in total, and 100,000 BOMB in the xBOMB staking contract.
+Now we have 100,000 xDGN in total, and 100,000 DGN in the xDGN staking contract.
 
-10,000 BOMB are now sent to the xBOMB reward contract, making the total amount of BOMB in the contract 110,000 now (learn where BOMB rewards come from below).
+10,000 DGN are now sent to the xDGN reward contract, making the total amount of DGN in the contract 110,000 now (learn where DGN rewards come from below).
 
-Since the total amount of xBOMB is still 100,000, but the BOMB shared among stakers is 110,000, the exchange rate (ratio) will now be 1.1 BOMB per xBOMB.
+Since the total amount of xDGN is still 100,000, but the DGN shared among stakers is 110,000, the exchange rate (ratio) will now be 1.1 DGN per xDGN.
 
-John can now redeem his 10,000 xBOMB to receive 11,000 BOMB in return.
+John can now redeem his 10,000 xDGN to receive 11,000 DGN in return.
 
-Any new BOMB deposits at this point will receive xBOMB at the current exchange rate of 1 xBOMB per 1.1 BOMB (as per this example).
+Any new DGN deposits at this point will receive xDGN at the current exchange rate of 1 xDGN per 1.1 DGN (as per this example).
 
-### How Does xBOMB Get Additional BOMB?
+### How Does xDGN Get Additional DGN?
 
-There are numerous sources of BOMB for the xBOMB holders:
+There are numerous sources of DGN for the xDGN holders:
 
-* Between January 24th and February 7th, 50,000 BOMB will be deposited into the xBOMB smart contract to benefit early stakers. That is an average of over 3,500 BOMB per day, over $10,000 USD per day during this period!
-* 20% of all BOMB minted on expansionary epochs will be deposited for xBOMB holders. This comes from the protocols BOMB allocation and has no negative impact on BSHARE staking.
-* 80% of all fees collected from the autocompounding vaults will be used to buy BOMB on the open market and deposited for xBOMB holders.
+* Between January 24th and February 7th, 50,000 DGN will be deposited into the xDGN smart contract to benefit early stakers. That is an average of over 3,500 DGN per day, over $10,000 USD per day during this period!
+* 20% of all DGN minted on expansionary epochs will be deposited for xDGN holders. This comes from the protocols DGN allocation and has no negative impact on DSHARE staking.
+* 80% of all fees collected from the autocompounding vaults will be used to buy DGN on the open market and deposited for xDGN holders.
 
 ### Contract
 
-The xBOMB contract can be found here: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/address/0xaf16cb45b8149da403af41c63abfebfbcd16264b)
+The xDGN contract can be found here: [0xAf16cB45B8149DA403AF41C63AbFEBFbcd16264b](https://bscscan.com/address/0xaf16cb45b8149da403af41c63abfebfbcd16264b)
