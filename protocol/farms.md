@@ -8,11 +8,22 @@ To incentivize healthy liquidity pools for the Dragon Finance protocol tokens, o
 * DGN-BNB LP: 40% of DSHARE rewards
 * DSHARE-BNB LP: 60% of DSHARE rewards
 
+## DGN reward pool
+140,000 DGN tokens already distributed on DGN reward pool. It will run for 9 days from on March 16th 2022.
 
+* 80,000 DGN token will be distributed to DGN-BNB LP stakers for first 4 days
+* 60,000 DGN tokens will be distributed to DGN-BNB LP stakers for next 5 days
+
+## Genesis reward pool
+Genesis pool will run for 2 days from on March 15th 2022.
+The DGN rewards are distributed from each farm as follows:
+* WBNB: 40% of DGN rewards
+* BUSD: 30% of DGN rewards
+* USDC: 30% of DGN rewards
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
-Yes. Once the max supply of DSHARE (59.5K) is reached, reward emissions end. This will happen in exactly one year from when the DSHARE farms started on November 25th, 2021. DSHARE will always continue to print DGN in the Boardroom, though, as long as DGN remains above peg.
+Yes. Once the max supply of DSHARE (59.5K) is reached, reward emissions end. This will happen in exactly one year from when the DSHARE farms will start on March 16th, 2022. DSHARE will always continue to print DGN in the Boardroom, though, as long as DGN remains above peg.
 
 {% hint style="danger" %}
 DSHARE reward emissions for the current LP farms are scheduled to end on March 15th, 2023 once the total DSHARE supply has been distributed.
