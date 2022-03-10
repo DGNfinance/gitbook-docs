@@ -2,8 +2,8 @@
 
 ### Dragon Finance Oracle
 
-[0x7cD306E896FaDd1528C230c4083DBf64877723b5](https://bscscan.com/address/0x7cD306E896FaDd1528C230c4083DBf64877723b5)
+[0x44d45CAd7757C196297290E87c86578eA733769f](https://bscscan.com/address/0x44d45CAd7757C196297290E87c86578eA733769f)
 
 ### Boardroom
 
-[0x558cf23D848a58eA7C7a6dc3bbE3ecb25Cf0ef03](https://bscscan.com/address/0x558cf23D848a58eA7C7a6dc3bbE3ecb25Cf0ef03)
+[0x13c28999deD3b66Ab7B479924FeC7f35fe8D2B69](https://bscscan.com/address/0x13c28999deD3b66Ab7B479924FeC7f35fe8D2B69)
