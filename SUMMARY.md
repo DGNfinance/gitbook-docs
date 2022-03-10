@@ -23,7 +23,7 @@
 
 * [Provide LP](helpful-guides/provide-lp.md)
 
-* [Discord](https://discord.gg/gtE7hdZu)
+* [Discord](https://discord.gg/8qHSHMdR)
 * [Telegram](https://t.me/dragonfinance0)
 <!-- * [Medium](https://bombbshare.medium.com)q -->
 * [Twitter](https://twitter.com/dragonfinance0)
