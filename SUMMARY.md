@@ -2,7 +2,6 @@
 
 * [dragonfinance.co Home](https://dragonfinance.co)
 
-##  Welcome / Start Here
 
 * [Introduction](README.md)
 * [Getting Started](welcome-start-here/faq-getting-started/README.md)
@@ -11,7 +10,6 @@
 <!-- * [Strategies](welcome-start-here/strategies.md)
 * [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md) -->
 
-##  Protocol
 
 * [Tokens](protocol/tokens.md)
 * [Boardroom](protocol/boardroom.md)
@@ -22,11 +20,8 @@
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
-##  Helpful Guides
 
 * [Provide LP](helpful-guides/provide-lp.md)
-
-##  Links
 
 * [Discord](https://discord.gg/gtE7hdZu)
 * [Telegram](https://t.me/dragonfinance0)
