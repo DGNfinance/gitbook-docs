@@ -1,8 +1,8 @@
 # Tokens
 
-### DGN - dragonfinance.co Token
+### DGN - Dragon Token
 
-![dragonfinance.co (DGN)](<../.gitbook/assets/dgn.png>)
+![Dragon (DGN)](<../.gitbook/assets/dgn.png>)
 
 Contract: [0xaAbA0B3dfB0854a068c71D15bB8bD028394e3CE3](https://bscscan.com/address/0xaAbA0B3dfB0854a068c71D15bB8bD028394e3CE3)
 
