@@ -25,7 +25,7 @@
 
 * [Discord](https://discord.gg/8qHSHMdR)
 * [Telegram](https://t.me/dragonfinance0)
-<!-- * [Medium](https://bombbshare.medium.com)q -->
+* [Medium](https://medium.com/@dragonfinance0)
 * [Twitter](https://twitter.com/dragonfinance0)
 * [GitHub](https://github.com/DGNfinance)
 <!-- * [StaySafu Audit](https://www.staysafu.org/audit/bombmoney) -->
