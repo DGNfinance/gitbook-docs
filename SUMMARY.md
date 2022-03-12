@@ -16,6 +16,7 @@
 * [DGN Distribution](protocol/dragon-distribution.md)
 * [Bonds (DBOND)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
+* [XDGN](protocol/xbomb-bomb-staking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)

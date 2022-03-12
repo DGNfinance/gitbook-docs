@@ -27,9 +27,9 @@ Let's take a look at each element of the Boardroom user interface and what it me
 * Any interaction with the Boardroom (staking/unstaking DSHARE or withdrawing DGN rewards) will **lock your staked DSHARE for 6 epochs and DGN rewards for 3 epochs.**&#x20;
 *   Distribution of DGN during expansion (Boardoom printing):
 
-    **80%** goes to Boardroom DSHARE stakers as rewards\
+    **80%** goes to Boardroom DSHARE stakers as rewards
 
-    **10%** goes to DAO fund
+    **10%** goes to XDGN contract
 
     **10%** goes to dev fund
 <!-- * Epoch Expansion: The current expansion cap is based on the currently circulating DGN supply (see [DGN Distribution](dragon-distribution.md) for details). If there are bonds to be redeemed, 65% of minted DGN goes to the treasury until its sufficiently stocked to satisfy future bond redemption. -->
